@@ -35,7 +35,7 @@ do
     ls "Dir$i"
 done
 
-# --- 4. დაარქივება (Archiving) ---
+# --- 4. დაარქივება (Archiving) -
 # tar - ინსტრუმენტია
 # -c (create): შექმენი
 # -z (gzip): შეკუმშე
