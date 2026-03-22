@@ -1,0 +1,7 @@
+5a4fdb6d42c4245573672e489ebc4cc7 *./ArhList.txt
+1433182f7e268687f10bed13d7790b71 *./README.md
+36c6f0b2061da514c400c0bc2749b5cf *./checksum-sh
+a779d499f9129da9d8432fe163842d19 *./checksum.sh
+79842a240480aecbacd91ea94dc7011d *./dato.txt
+aac31ad0fec7dc61059050769564c2e2 *./ping_monitor.sh
+f590800dada56278b1e19b1a8132b7aa *./skript.sh
